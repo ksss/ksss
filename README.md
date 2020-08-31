@@ -1,13 +1,11 @@
 ksss
 ----
 
+![ksss's GitHub status](https://github-readme-stats.vercel.app/api?username=ksss&show_icons=true)
+
 # name
 
-Yuki Kurihara
-
-栗原 勇樹
-
-ksss
+Yuki Kurihara, 栗原 勇樹, ksss
 
 # contribution
 
