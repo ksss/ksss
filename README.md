@@ -43,6 +43,7 @@ And some modules have been merged with [mruby/mruby](https://github.com/mruby/mr
 - blog: https://ksss9.hatenablog.com/
 - rubygems: https://rubygems.org/profiles/ksss
 - slide: https://speakerdeck.com/ksss
+- zenn: https://zenn.dev/ksss
 - others:
   - https://magazine.rubyist.net/articles/0054/0054-typestruct.html
   - http://regional.rubykaigi.org/tokyo11/interview/ksss/
