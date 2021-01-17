@@ -47,3 +47,4 @@ And some modules have been merged with [mruby/mruby](https://github.com/mruby/mr
 - others:
   - https://magazine.rubyist.net/articles/0054/0054-typestruct.html
   - http://regional.rubykaigi.org/tokyo11/interview/ksss/
+  - https://gist.github.com/ksss/ff1dc20bcab3f7ab654cc40ce0df5aae
