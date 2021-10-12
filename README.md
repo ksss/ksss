@@ -18,7 +18,11 @@ Yuki Kurihara, 栗原 勇樹, ksss
 I've sent some feature requests and bug reports to CRuby.
 
 - new method `KeyError#receiver` and `KeyError#key`. https://bugs.ruby-lang.org/issues/12063
-- bug report https://bugs.ruby-lang.org/issues/14549
+- provide default basename parameter `Tempfile.create` https://bugs.ruby-lang.org/issues/11965
+- bug reports:
+  - https://bugs.ruby-lang.org/issues/11199
+  - https://bugs.ruby-lang.org/issues/14549
+  - https://bugs.ruby-lang.org/issues/18185
 
 ## mruby
 
