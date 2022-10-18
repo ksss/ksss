@@ -40,6 +40,7 @@ And some modules have been merged with [mruby/mruby](https://github.com/mruby/mr
 - [ksss/mruby-spec](https://github.com/ksss/mruby-spec) I found many bugs in mruby by mruby-spec. and presented at [RejectKaigi2018](https://speee.connpass.com/event/84915/)
 - [ksss/type_struct](https://github.com/ksss/type_struct) presented at [Tokyo RubyKaigi 11](http://regional.rubykaigi.org/tokyo11).
 - [ksss/digest-murmurhash](https://github.com/ksss/digest-murmurhash) is linked from [wikipedia](https://en.wikipedia.org/wiki/MurmurHash).
+- [ksss/orthoses](https://github.com/ksss/orthoses) presented at [RubyKaigi2022](https://rubykaigi.org/2022/presentations/_ksss_.html)
 
 # 🔗 links
 
