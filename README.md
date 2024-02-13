@@ -23,8 +23,11 @@ I've sent some feature requests and bug reports to CRuby.
   - https://bugs.ruby-lang.org/issues/11199
   - https://bugs.ruby-lang.org/issues/14549
   - https://bugs.ruby-lang.org/issues/18185
-- outside collaborator in https://github.com/ruby/gem_rbs_collection
-  - Maintainer of `/gems/aws-sdk-*`'s signature
+
+## aws-sdk-ruby
+
+- Add RBS for all gems
+    - https://aws.amazon.com/blogs/developer/announcing-rbs-support-for-aws-sdk-for-ruby-v3/
 
 ## mruby
 
