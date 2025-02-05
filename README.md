@@ -44,6 +44,7 @@ And some modules have been merged with [mruby/mruby](https://github.com/mruby/mr
 - [ksss/type_struct](https://github.com/ksss/type_struct) presented at [Tokyo RubyKaigi 11](http://regional.rubykaigi.org/tokyo11).
 - [ksss/digest-murmurhash](https://github.com/ksss/digest-murmurhash) is linked from [wikipedia](https://en.wikipedia.org/wiki/MurmurHash).
 - [ksss/orthoses](https://github.com/ksss/orthoses) presented at [RubyKaigi2022](https://rubykaigi.org/2022/presentations/_ksss_.html)
+- [ksss/orthoses-rails](https://github.com/ksss/orthoses-rails) presented at [Kaigi on Rails 2023](https://kaigionrails.org/2023/talks/ksss/)
 
 # 🎤 Speaker
 
