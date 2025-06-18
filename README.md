@@ -13,6 +13,13 @@ Yuki Kurihara, 栗原 勇樹, ksss
 
 🔗 https://github.com/search?q=author%3Aksss&type=Issues
 
+## RBS
+
+One of the committers.
+
+- https://github.com/ruby/rbs
+- https://github.com/ruby/gem_rbs_collection
+
 ## CRuby
 
 I've sent some feature requests and bug reports to CRuby.
@@ -45,6 +52,8 @@ And some modules have been merged with [mruby/mruby](https://github.com/mruby/mr
 - [ksss/digest-murmurhash](https://github.com/ksss/digest-murmurhash) is linked from [wikipedia](https://en.wikipedia.org/wiki/MurmurHash).
 - [ksss/orthoses](https://github.com/ksss/orthoses) presented at [RubyKaigi2022](https://rubykaigi.org/2022/presentations/_ksss_.html)
 - [ksss/orthoses-rails](https://github.com/ksss/orthoses-rails) presented at [Kaigi on Rails 2023](https://kaigionrails.org/2023/talks/ksss/)
+- [ksss/raap](https://github.com/ksss/raap) used in [rbs](https://github.com/ruby/rbs) repository.
+- [ksss/rubocop-on-rbs](https://github.com/ksss/rubocop-on-rbs) used in [rbs](https://github.com/ruby/rbs) repository.
 
 # 🎤 Speaker
 
