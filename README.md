@@ -68,7 +68,6 @@ And some modules have been merged with [mruby/mruby](https://github.com/mruby/mr
 - twitter: [https://twitter.com/_ksss\_](https://twitter.com/_ksss_)
 - facebook: https://www.facebook.com/yuki.kurihara.99
 - blog:
-  - https://ksss.ink/
   - https://ksss9.hatenablog.com/
 - rubygems: https://rubygems.org/profiles/ksss
 - slide: https://speakerdeck.com/ksss
